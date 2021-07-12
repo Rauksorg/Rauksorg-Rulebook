@@ -3,6 +3,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+  permalink: pretty
 include:
   - CONTRIBUTING.md
   - README.md
