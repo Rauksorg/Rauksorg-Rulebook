@@ -1,5 +1,5 @@
 # Rauksorg
 
-[Action et compétence](Rules/Le personnage/Action et compétence.md)
+[Action et compétence](Rules/Le_personnage/Action_et_competence.md)
 
-[Test](Rules/Le%20personnage/Action%20et%20competence.md)
+[Test](Rules/Le_personnage/Action_et_competence.md)
