@@ -149,7 +149,7 @@ Charme
 Le charme est utilisé pour présenter son personnage sous un jour meilleur et ainsi améliorer la vision que les autres ont de lui.
 
 Hypnose
-Votre personnage a appris diverses techniques d’hypnoses. Ces techniques permettent de créer des suggestions chez leurs cibles, permettant de manipuler leur esprit et leur volonté. L’hypnose requiert que la cible soit volontaire ou à défaut pacifiée et demande un certain temps pour fonctionner. L’hypnose engendre une réaction psychologique ou physiologique et permet en outre d’endormir profondément une cible, de supprimer une douleur, de soigner une blessure psychologique et peut même aller jusqu’à créer des malaises ou une altération légère de la mémoire.
+Votre personnage a appris diverses techniques d’hypnoses. Ces techniques permettent de créer des suggestions chez leurs cibles, permettant de manipuler leur esprit et leur volonté. L’hypnose requiert que la cible soit volontaire ou à défaut pacifiée et demande un certain temps pour fonctionner. L’hypnose engendre une réaction psychologique ou physiologique et permet en outre d’endormir profondément une cible, de supprimer une douleur, de raviver un souvenir enfui, de soigner une blessure psychologique et peut même aller jusqu’à créer des malaises ou une altération légère de la mémoire.
 
 Attention l’hypnose demeure une technique difficile à mettre en place, et un jet de chance modulera les effets en fonction de la difficulté de l’effet voulu.
 
