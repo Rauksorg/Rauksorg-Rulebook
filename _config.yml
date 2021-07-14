@@ -1,3 +1,6 @@
+title: Rauksorg Rulebook
+author: Quentin Constant
+url: https://rauksorg.github.io/Rauksorg-Rulebook/
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -15,3 +18,6 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 remote_theme: abhinavs/moonwalk
+theme_config:
+  appearance: "dark"
+  appearance_toggle: true
