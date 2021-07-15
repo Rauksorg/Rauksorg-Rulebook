@@ -4,7 +4,7 @@
 
 [Les caractéristiques](Rules/Le_personnage/1_Les_caractéristiques.md)
 
-[Action et compétence](Rules/Le_personnage/2_ Action_et_compétence.md)
+[Action et compétence](Rules/Le_personnage/2_Action_et_compétence.md)
 
 [Les Ressources](Rules/Le_personnage/3_Les_Ressources.md)
 
@@ -17,4 +17,4 @@
 ## Les Actions
 
 
-### Le scénario
+## Le scénario
