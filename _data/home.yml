@@ -8,7 +8,7 @@ navbar_entries:
   - title: website
     url: https://www.abhinav.co
 
-perso_entries:
+project_entries:
   - title: Project 1
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
