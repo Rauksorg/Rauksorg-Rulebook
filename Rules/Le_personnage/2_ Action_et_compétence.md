@@ -1,3 +1,5 @@
+[Les caractéristiques](Rules/Le_personnage/1_Les_caractéristiques.md)
+
 # Actions et Compétences
 
 Chaque jet de difficulté dans le jeu se fait en fonction d’une action donnée.
