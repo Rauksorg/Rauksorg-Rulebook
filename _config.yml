@@ -21,6 +21,6 @@ remote_theme: abhinavs/moonwalk
 theme_config:
   appearance: "dark"
   appearance_toggle: true
-  show_projects: true
+  show_o_projects: true
   home:
-    title_projects: Portfolio
+    title_o_projects: Portfolio
