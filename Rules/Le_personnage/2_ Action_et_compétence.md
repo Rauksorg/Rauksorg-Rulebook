@@ -197,3 +197,5 @@ Il est à noter que si on souhaite convaincre un groupe, on applique le caractè
 Les personnages (tel que les Rauks) disposant en plus de la compétence volonté peuvent tenter de résister aux tentatives réussies de compétence de charisme.
 * L’apparence (Charisme)
 La difficulté pour déterminer les émotions et la volonté réelle d’un personnage dépend de sa caractéristique charisme.
+
+[Les Ressources](Rules/Le_personnage/3_Les_Ressources.md)
