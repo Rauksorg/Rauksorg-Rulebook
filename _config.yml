@@ -21,8 +21,6 @@ remote_theme: abhinavs/moonwalk
 theme_config:
   appearance: "dark"
   appearance_toggle: true
-  show_perso: true
+  show_projects: true
   home:
-    title_perso: Le Personnage
-    title_action: Les Actions
-    title_scenar: Le Scénario
+    title_projects: Portfolio
