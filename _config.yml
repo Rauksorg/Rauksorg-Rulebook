@@ -23,5 +23,6 @@ theme_config:
   appearance_toggle: true
   show_projects: true
   home:
-    title_projects: Portfolio
-    title_action: Old Projects
+    title_perso: Le Personnage
+    title_action: Les Actions
+    title_scenar: Le Scénario
