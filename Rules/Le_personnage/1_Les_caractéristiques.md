@@ -1,9 +1,9 @@
-
+# La création d'un personnage
 
 ## Le passeport du personnage
 La fiche de personnage a la forme d’un passeport.
-Informations
-Origine
+
+### Origine
 L’origine d’un personnage est une bonne indication de l’ethnie ou de la culture d’un personnage et indique la ville dont il est le plus proche. Il s’agit en général de sa ville de naissance mais il est fréquent que des parents choisissent de donner la même ville d’origine à leurs enfants, même si ce dernier n’est pas né dans cette ville.
 
 Il existe également un cas particulier, certaines personnes proches de l’Empire, soit par leur parents soit suite aux services rendus pour l’Empire, peuvent choisir l’origine Impériale. Ils ne se revendiquent alors d’aucune ville, mais de l’Empire même. Sont également d’origine impériale, les personnes issue de la cité Impériale en Antarctique.
@@ -48,3 +48,5 @@ Deux points dans une caractéristique représente un personnage normal, trois un
 Notes : Ce système de jeu permet de créer de nombreux types de personnages différents, particulièrement différents en fonction des caractéristiques et des compétences choisies. L’un des choix premier est cependant celui de faire un personnage polyvalent en plaçant beaucoup de points dans le Physique, la Perception, le Mental ou Le Charisme, le personnage aura alors beaucoup de facilités dans un grand nombre de jets mais disposera de peu de compétences ; l’autre possibilité est un personnage spécialisé, se concentrant sur une caractéristique classique et prenant beaucoup de compétences et de relances. Ainsi que tout les intermédiaires entre ces deux extrêmes.
 Traits, Traumatisme et motivation
 *Voir évolution du personnage*
+
+[Action et compétence](Rules/Le_personnage/2_ Action_et_compétence.md)
