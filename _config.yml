@@ -1,6 +1,13 @@
 title: Rauksorg Rulebook
 author: Quentin Constant
 url: https://rauksorg.github.io/Rauksorg-Rulebook/
+description: >
+  Rauksorg est un jeu de rôle vous proposant de jouer un groupe d'enquêteurs s'approchant presque de la figure du chevalier : les Rauks. 
+  Vous évoluerez dans un présent alternatif dans une période indéterminée après l'avènement d'un empire mondial au 18ème siècle. Cet empire couvre plus ou moins l'intégralité de la surface du monde. La révolution industrielle n'a pas eu lieu de la même manière dans l'empire, la machine à vapeur est remplacée par un usage optimisé d'une électricité issue de barrages et d'éoliennes intégrées aux villes et aux habitations. Les villes, véritables cités États forment un équilibre local par rapport à la République Impériale universelle.
+  Les Rauks sont responsables d'une certaine forme de justice, indépendante des villes. Les joueurs auront un contrat à accomplir souvent difficile, qu’ils devront réaliser du mieux de leurs compétences et découvriront par ce fait les recoins les plus sombres de l’univers.
+  Rauksorg se veut un jeu de rôle axé sur la narration, disposant de règles simples permettant d'éviter un maximum les calculs en cours de partie. La lecture rapide des jets donne un rythme et un dynamisme importants au jeu. 
+  
+  
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -21,6 +28,7 @@ remote_theme: abhinavs/moonwalk
 theme_config:
   appearance: "dark"
   appearance_toggle: true
+  show_description: true
   show_o_projects: true
   home:
     title_o_projects: Portfolio
